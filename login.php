@@ -198,24 +198,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </button>
 
     </form>
-
-    <div class="demo-box mt-4">
-
-        <strong>Demo Login</strong>
-
-        <br><br>
-
-        <b>Admin:</b><br>
-        admin@example.com<br>
-        admin123
-
-        <hr>
-
-        <b>Vendor:</b><br>
-        vendor@example.com<br>
-        vendor123
-
-    </div>
+<p class="text-center text-muted mt-3 mb-0">
+    Secure access for authorized users
+</p>
 
     <div class="text-center mt-3">
 
